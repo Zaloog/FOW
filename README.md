@@ -74,7 +74,8 @@ win.
 ## Keycards and Playlines	
 Since we are playing Shiva we can also run one of the best cards in this set in my opinion, which is 
 [Rigveda]. Another powerful card, which we are also playing 4 copies of in the main deck is 
-[Dark Alice in Ma'at]. 
+[Dark Alice in Ma'at]. [Flute, Captive Dragonoid Child // Group of Comets] and [Phantasmal Ascendant] help us to get ahead with our will production. 
+
 
 ## Infinite Attack Combo	
 ## Play Style	
