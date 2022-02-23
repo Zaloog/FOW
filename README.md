@@ -1,10 +1,11 @@
-**Deck Tech Series**
+# **Deck Tech Series**
 
 # She What?!
 
 ## Intro
 
-Welcome Rulers, 
+Welcome Rulers,
+ 
 I hope you are all doing well and also excited to dive into New Frontiers Format with 
 the cards from the newest edition "Game of Gods: Reloaded". After a longer break from my side I finally 
 found some time again to play some games and write another article for you. 
