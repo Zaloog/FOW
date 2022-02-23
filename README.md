@@ -1,5 +1,3 @@
-
-
 # **Deck Tech Series**
 
 # She What?!
@@ -29,11 +27,9 @@ go over certain interactions and card choices.
 
 //main deck
 
-4 Dark Alice in Ma'at
-
-4 Flute, Captive Dragonoid Child // Group of Comets
-
-4 Melfee, Traveling Sorceress
+4 Dark Alice in Ma'at <br />
+4 Flute, Captive Dragonoid Child // Group of Comets <br />
+4 Melfee, Traveling Sorceress <br />
 
 4 Rigveda
 
