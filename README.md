@@ -1,3 +1,5 @@
+
+
 # **Deck Tech Series**
 
 # She What?!
@@ -20,12 +22,12 @@ playing right away. After showing you the list, we will take a look at the list 
 go over certain interactions and card choices.
 	
 ## Decklist	
-//play-1
+//ruler
 
 1 Shiva, Providence of Nature
 
 
-//deck-1
+//main deck
 
 4 Dark Alice in Ma'at
 
@@ -59,7 +61,7 @@ go over certain interactions and card choices.
 
 
 
-//deck-2
+//stone deck
 
 2 Amadeus, Holy Crystal
 
@@ -70,12 +72,24 @@ go over certain interactions and card choices.
 4 The Magic Stone of the Six Sages
 
 
-//sideboard-1
+//sideboard
 
 1 Arena Expansion: Mimi Tribe Festival
 
+1 Rogue Spectator
+
+
 ## How to win	
+The Deck is a mix of a control and a beatdown deck, which also is able to perform a 1 card infinite 
+attack combo (more to that later). So we are quite flexible. One the one hand we can go for a big board 
+and swing with Shivas +200/+200 field buff, which we get for ordering a resonator. While on the other 
+hand we can also play more reactively and try to outcontrol our opponent until we can overwhelm him and 
+win.
+
 ## Keycards and Playlines	
+Since we are playing Shiva we can also run one of the best cards in 
+this set in my opinion, which is [Rigveda].
+
 ## The Ruler	
 ## Best Cards	
 ## Infinite Attack Combo	
