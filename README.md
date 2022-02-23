@@ -15,9 +15,15 @@ Have fun with the deck profile and keep brewing with the new set :)
 
  	
 ## Shiva Goodstuff
-Same procedure as last year. I will start with the decklist first, in case you want to build it and start 
-playing right away. After showing you the list, we will take a look at the list in more detail and I will 
-go over certain interactions and card choices.
+
+Shiva is one of the two "Villain"-Rulers in Game of Gods: Reloaded and in my opinion it was the weakest 
+one of the four new rulers I thought first. But my opinion changed after playing a few games and seeing 
+how nice some of the cards synergize together. So I decided to share my first draft of this deck with 
+you, to give you a first impression on how to build a Shiva deck.
+
+Same procedure as last year (and last article) for this Deck-Feature. I will start with the decklist 
+first, in case you want to build it and start playing right away. After showing you the list, we will 
+take a look at the list in more detail and I will go over certain interactions and card choices.
 	
 ## Decklist	
 //ruler
@@ -30,49 +36,32 @@ go over certain interactions and card choices.
 4 Dark Alice in Ma'at <br />
 4 Flute, Captive Dragonoid Child // Group of Comets <br />
 4 Melfee, Traveling Sorceress <br />
-
-4 Rigveda
-
-4 Tea Party Before the Decisive Duel
-
-3 Phantasmal Ascendant
-
-3 The First Boon: Excalibur Cassius, Sword
-
-3 Misteltein, Dark Sword Saint
-
-2 The Three Beast Warriors
-
-2 Keep the Faith!
-
-2 Awakening of Grubalesta
-
-2 Odin Enters the Game of Gods
-
-1 Hegel, Giant of the Dark Sun
-
-1 Geryon
-
-1 Arena Expansion: Mimi Tribe Festival
-
+4 Rigveda <br />
+4 Tea Party Before the Decisive Duel <br />
+3 Phantasmal Ascendant <br />
+3 The First Boon: Excalibur Cassius, Sword <br />
+3 Misteltein, Dark Sword Saint <br />
+2 The Three Beast Warriors <br />
+2 Keep the Faith! <br />
+2 Awakening of Grubalesta <br />
+2 Odin Enters the Game of Gods <br />
+1 Hegel, Giant of the Dark Sun <br />
+1 Geryon <br />
+1 Arena Expansion: Mimi Tribe Festival <br />
 
 
 //stone deck
 
-2 Amadeus, Holy Crystal
-
-2 Magic Stone of Atoms
-
-2 Magic Stone of Knowledge
-
-4 The Magic Stone of the Six Sages
+2 Amadeus, Holy Crystal <br />
+2 Magic Stone of Atoms <br />
+2 Magic Stone of Knowledge <br />
+4 The Magic Stone of the Six Sages <br />
 
 
 //sideboard
 
-1 Arena Expansion: Mimi Tribe Festival
-
-1 Rogue Spectator
+1 Arena Expansion: Mimi Tribe Festival <br />
+1 Rogue Spectator <br />
 
 
 ## How to win	
@@ -83,11 +72,10 @@ hand we can also play more reactively and try to outcontrol our opponent until w
 win.
 
 ## Keycards and Playlines	
-Since we are playing Shiva we can also run one of the best cards in 
-this set in my opinion, which is [Rigveda].
+Since we are playing Shiva we can also run one of the best cards in this set in my opinion, which is 
+[Rigveda]. Another powerful card, which we are also playing 4 copies of in the main deck is 
+[Dark Alice in Ma'at]. 
 
-## The Ruler	
-## Best Cards	
 ## Infinite Attack Combo	
 ## Play Style	
 ## Ending Words	
