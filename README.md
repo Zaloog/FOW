@@ -1,4 +1,4 @@
-# **Deck Tech Series**
+**Deck Tech Series**
 
 # She What?!
 
@@ -75,7 +75,19 @@ win.
 Since we are playing Shiva we can also run one of the best cards in this set in my opinion, which is 
 [Rigveda]. Another powerful card, which we are also playing 4 copies of in the main deck is 
 [Dark Alice in Ma'at]. [Flute, Captive Dragonoid Child // Group of Comets] and [Phantasmal Ascendant] help us to get ahead with our will production. 
+[Tea Party Before the Decisive Duel] also gives us the option to get ahead of will in certain situations, while also giving cards like Alice and
+[Misteltein Dark Sword Saint] quickcast to interrupt our opponents plays. 
 
+[Melfee, Travelling Sorceress] acts as a color fixer, while also providing more bodies and therefore more attack to the board. [Odin Enters the Game of Gods] 
+helps to dig deeper into the deck. Note that it to remove [Tea Party Before the Decisive Duel] as one of our three cards we take a look at, we are still able to return Tea Party to the graveyard, to recover a stone and draw a card and make our next Light resonator quickcast.
+
+Another card that already saw play in [Fiethsing]/[Moojdart] mostly is [The First Boon: Excalibur Cassius, Sword]. It gives us three more cards that we can cast 
+from the "removed from game" zone. Even though our opponent gets the information which cards that are, its more than worth it.
+
+The rest of the cards act as supporters, like [Keep the Faith!] to revive a 1-will resonator, or [The Three Beast Warriors] as a way to interact with 
+the opponents gameplan (Destroyng Alice Regalias for example).
+
+The last two cards I want to go over a a bit more gimmicky. So lets skip right into our next section.
 
 ## Infinite Attack Combo	
 ## Play Style	
