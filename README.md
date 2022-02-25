@@ -107,8 +107,10 @@ enough to play the Mimi Tribe Festival for free from the sideboard.
 
 ## Play Style	
 Like I said before the deck is quite flexible. One of the best openings one can have is most likely Flute with an Rigveda and/or Tea Party in Hand. That way we can start with an will advantage,
-while also having interaction available. In our second turn the best follow up would be a ordered Dark Alice to Steal 2 cards from our opponents hand while also building field presence 
-and having potential removal with the darkness regalia token. From there on it depends, what our opponent is playing, but in general, we should try to get small amounts of damage in,
+while also having interaction available. 
+In our second turn the best follow up would be a ordered Dark Alice to Steal two cards from our opponents hand while also building field presence 
+and having potential removal with the darkness regalia token. 
+From there on it depends, what our opponent is playing, but in general, we should try to get small amounts of damage in,
 while keeping our opponent under control. When there is a possibility for a potential OTK, cause our opponent is tapped out, or we get the information about his hand cards from playing a Dark Alice,
 we can try to win the game with the infinite attack combo. 
 
