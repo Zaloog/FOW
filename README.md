@@ -97,9 +97,11 @@ The last two cards I want to go over a a bit more gimmicky. So lets skip right i
 ## Infinite Attack Combo	
 The two cards I am talking about is [Awakening of Grusbalesta] and [Arena Expansion: Mimi Tribe Festival]. Since we are playing Shiva, we have always acess to Mimi Tribe Festival,
 because we are allowed to play it from our sideboard, if we revealed it at the beginning of the game. It can also be played for free, if we have a combined total of more than 3000 ATK on our side of the field.
+
 On enter we can search for 2 Mimi Tribes, which also is nice, but the more important ability is that we can recover a stone everytime one of our resonators attacks.
 Since Awakening of Grubalesta turns our stones to resonators, we can attack with them, which triggers the addition, recovers the attacker and lets us attack again.
 So we can basically attack as often as we want, which should be enough to lower our opponents lifepoints to 0.
+
 With 3 different Stones in play we can play the Awakening of Grubalesta for only one will and the 3000 Attack of the three stones is also (almost)
 enough to play the Mimi Tribe Festival for free from the sideboard.
 
