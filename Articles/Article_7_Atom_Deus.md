@@ -17,6 +17,11 @@ It might not be very competetive, but can surely catch people off guard
 cards, but we will go more into detail on those later, here comes the decklist first.
 
 ## Decklist	
+//ruler
+
+1 Deus Ex Machina, God from Future Dimension // Order of the Future<br />
+
+
 //maindeck
 
 4 Tiny Violet<br />
@@ -41,11 +46,6 @@ cards, but we will go more into detail on those later, here comes the decklist f
 1 Atomic Reactor<br />
 1 Deep Blue Soldier<br />
 1 Altesing's Secret Hideout<br />
-
-
-//ruler
-
-1 Deus Ex Machina, God from Future Dimension // Order of the Future<br />
 
 
 //stonedeck
