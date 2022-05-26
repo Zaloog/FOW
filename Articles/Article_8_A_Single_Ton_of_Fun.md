@@ -95,7 +95,7 @@ As a short reminder, here is a short list for all public zones, where Twelve Oly
 
 To set up [Union Seven] it takes quite a bit. But with the right cards, its possible on turn 2 or 3 already. 
 
-## Zeus ,his Olympians and more support
+## Zeus, his Olympians and more support
 Zeus is the first Singleton Ruler, that got so much support cards, that we will not have problems filling his remaining deck slots with good cards.
 All of the Twelve Olympian God Resonators have a similar design, they have an Enter Ability and some more extra abilities if [Union Seven] is active.
 Also notice, that we are able to trigger most of the Non-[Union Seven] abilities of the Twelve Olympian Gods, when we reveal them with [Zeus] Enter ability, 
@@ -160,6 +160,7 @@ Furthermore we can use it to "recycle" our Gods, by putting them from the gravey
 It also is put directly into the field when we search and reveal it with Zeus effect, which makes it very accessible and in ~90% the first card we want to 
 reveal with Zeus. Drawing the Arena Expansion hurts quite much, although the new stones help casting it from hand, 
 especially with the help from [Artemis The Fifth Olympian], which recovers two stones that can pay for four of the five will for Mount Olympus.
+Another useful discard might be [Fallen Angel Of Fiery Vengeance] as a removeal or any of the elemental Zeus chants to immidiately remove it from grave to cast the next one for free.
 
 Since we want to order as often as we can cards like [Perceval, The Flying Knight], [Perceval, the Charmed Knight] and [Fallen Angel of Fiery Vengeance]
 are quite important, since with their banish ability they allow us to be flexible when it comes to returning our order back to ruler area to order another resonator.
@@ -167,10 +168,25 @@ are quite important, since with their banish ability they allow us to be flexibl
 ## Play Style	
 For singleton it is not really possible to give general advices how to play at certain stages of the game, 
 since it really depends on the different cards in our hand and what our opponent is playing. I still try to give some general tips on early turns
-and which cards to keep in your opening hand opening hand.
+and which cards to keep in your opening hand.
+
+When having the coin, we always have the option to order [Rogue Spectator] from our sideboard. Then we can reveal [Ares, the Eights Olympian]from our deck, to have our opponent pay 1 more,
+to counter our opponents first turn play. Furthermore if our first stone is [The One Magic Stone] we also have the option to play Ares from our hand in our opponents second turn. 
+Resolving Poseidons trigger to bounce Ares back to Hand, to have Ares ready for your opponents third turn.
+An even better counter start with coin is to order [Fiethsing, 100 Years Of Wizardry] stack Zeus enter trigger to resolve first to get the addition on field which then forces our opponent
+to pay 1 more for Fiethsings enter ability. In our first turn we then can use Fiethsings ability to unorder and have Zeus ready to order again in our turn or stay more reactive and order in our opponents.
+
+Since Zeus Engine is pretty reliant on searching the deck, [Witch Of The Fallen Kingdom] shuts our deck pretty much down. Therefore we have to make sure we have enough removal options, 
+or already use the mulligan to dig for a potential one. 
 
 ## Ending Words
+Zeus really is an awesome deck which is pretty versatile and also a lot of fun. Also with the new banlist announced now, the only thing he lost compared to other decks is a Laurite. 
+Unfortunately I think there are other decks, that might still be better than Zeus, even though they were hit quite hard by the banlist. One of those might be [Typhon, The Infinite Monster],
+which is still extremely powerful even though the Turn 0 discard seven combo with [Echidna, Mechanized Monster] and [Typhon`s Wave of Terror].
 
-Cheerz
-Lars
+I hope this article could give you a first insight into Zeus toolbox and the possibilities with the new Twelve Olympian Gods. 
+Let us see if in the future there will also be decks like [Asmodeus] or [Yggdrasil Malefic Verdant Tree] trying to rush into [Union Seven] with their fast deck removal ability.
 
+Thanks for reading this article and have fun brewing with the new cards.
+
+Cheerz Lars
