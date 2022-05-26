@@ -86,7 +86,7 @@ the following text in all zones as long as you control in public zones and own r
 outside the game a combined number of seven or more New Twelve Olympian Gods
 with different names."
 
-As a short reminder, here is a short list for all public zones, where Tw you might thinkelve Olympian Gods count towards [Union Seven]:
+As a short reminder, here is a short list for all public zones, where Twelve Olympian Gods count towards [Union Seven]:
 - cards on the field
 - cards in the graveyard
 - cards in the "removed from game" zone
@@ -97,6 +97,7 @@ To set up [Union Seven] it takes quite a bit. But with the right cards, its poss
 
 ## Zeus ,his Olympians and more support
 Zeus is the first Singleton Ruler, that got so much support cards, that we will not have problems filling his remaining deck slots with good cards.
+All of the Twelve Olympian God Resonators have a similar design, they have an Enter Ability and some more extra abilities if [Union Seven] is active.
 Also notice, that we are able to trigger most of the Non-[Union Seven] abilities of the Twelve Olympian Gods, when we reveal them with [Zeus] Enter ability, 
 that triggers if we order a resonator or [Zeus Enters The Game Of Gods].
 In the following Table I will shortly display the Twelve Olympian God cards and their abilities.
@@ -116,14 +117,57 @@ In the following Table I will shortly display the Twelve Olympian God cards and 
 |   10   | Aphrodite  | You gain 2000 life. Draw a card |If you would gain life, you gain double that amount instead. <br /> If you would draw a card, you draw two cards instead|
 |   11   | Persephone  | You may destroy target J/resonator, if you do draw a card |0: Target J/resonator gains [+600/+600] until end of turn. Play this ability only once per turn and only if this card is in your graveyard <br /> 0: Destroy target J/resonator you control and target J/resonator your opponent controls. Play this ability only once per turn and only if this card is in your graveyard|
 |   12   | Magna and Lenneth  | Target J/resonator gains Swiftness and Eternal until end of turn. Put X [+100/+100] counters on it, where X is the number of different names among New Twelve Olympian Gods you control in public zones and New Twelve Olympian Gods you own revealed outside the game. If X is 5 or more, draw two cards. |Enter: This card deals X damage to your opponent where X is the total ATK of New Twelve Olympian Gods you control|
-|    X   | Arena Expansion: <br /> Mount Olympian | If this card would be put into your hand from your deck by the effect of an Enter ability gained from a card named "Order of the Olympians" you control, you may put it into the field instead. |NONE|
+|    X   | Arena Expansion: <br /> Mount Olympus | If this card would be put into your hand from your deck by the effect of an Enter ability gained from a card named "Order of the Olympians" you control, you may put it into the field instead. |NONE|
 
+I put [Aphrodite] as well as [Lenneth and Magna] into the side deck, because their contribution to interrupt the opponent or support our gameplan is less,
+then for the other Twelve Olympic Gods. With [Origins of the 7 Lands] we can still reveal them, so they count towards [Union Seven]. But in general you do not want 
+to draw too many of the Twelve Olympic Gods, cause that way you loose the option to trigger their effects at quickcast speed when you search them. 
+The new magicstone for Zeus [The One Magic Stone] generates two will, that you can only spend to play Twelve Olympian Gods, which is a huge advantage, 
+since playing a 2-cost resonator with only one stone is always good. 
+
+His other support involves the Essence-Chants. Those chants consists of two parts. 
+The first part is just a regular chant effect like deal 500 damage to target player or J/resonator. The second part of those chants put different kind of tokens
+into the field. Hmm... nothing special you might think. However, those chants can be ordered just like normal resonators. 
+That means, if our ruler is recovered we can choose to order them, therefore the first part resolves, without the possibility to chase to it.
+Then the token enters the field as a J-Ruler and the enter ability of our first Olymp Zeus is triggered. In addition to that already very strong ability,
+the order card also returns back to the ruler area at the end of turn, so the Token becoes a resonator again,
+allowing us to order in the next turn, without the need to think about how we get rid of our J-Ruler.
+
+As you might have seen in the deck list, only three of those Essence-Chants made it into the deck. The other chants did not, because either they are
+too expensive, or their effects are not useful enough in my opinion.
+
+The third kind of support consists of 5 chants (one for each element), which are "The Wind/Water/Fire/Darness/Light of Zeus".
+Those cards are not only quite powerful when playing Zeus (thanks to Force Resonance \<Olympians\>), they can also be played without paying their cost,
+if you removed another of those in your graveyard from the game. So for example if your opponent has a huge board and you only have one will to interact with it,
+you can cast [The Water Of Zeus] to draw two cards, then remove it from the game in your graveyard to cast [The Light Of Zeus] for free from your and to wipe 
+your opponents board only, without him being able to chase to the card. Note that the effect to remove the chants from your graveyard to cast the next of them for free
+is an activate ability your opponent can react to, or even negate it with cards like [Laurite, Seven Luminaries Astrologian] or [Fiethsing, 100 Years Of Wizardry].
+I did not add [The Darkness Of Zeus] into the list, because it felt underwhelming in my testing and the other chants provide more impact on the actual game situation.
 
 ## How to win	
+The deck most likely will win with the [Union Seven] effect active and building a big board. Our board gains swiftness then from [Hestia, The Sixth Olympian]
+or a [Witch of the Fallen Kingdom] train (Needs Seal 5) into a final [Pumpkin Witch]. 
+[Poseidon, The Second Olympian] helps us starting our combo once we hit [Union Seven], since we can arrange his enter abilities, 
+that way so we first bounce himself to hand, to then resolve the second ability to draw three cards and put Poseidon into the field again to repeat that loop until 
+we drew our whole deck. With his last trigger we put [Artemis The Fifth Olympian] into the field then and recover two stones, 
+so we can start playing more cards like [Hestia] or [Typhonomachy, the Final Duel] to win the game from there. 
 
 ## Keycards	
+Since we are playing singleton, every card in the deck has a certain purpose and therefore is important. Though some cards are more vital to the engine than others.
+One of the most important cards is [Zeus Enters The Game Of Gods], since it gives us access to our toolbox of Twelve Olympian Gods reveal/enter-abilities. 
+Not less important is [Arena Expansion: Mount Olympus], which helps as trading less important Twelve Olympian Gods from our hand for two new cards. 
+Furthermore we can use it to "recycle" our Gods, by putting them from the graveyard back to the bottom of our deck. 
+It also is put directly into the field when we search and reveal it with Zeus effect, which makes it very accessible and in ~90% the first card we want to 
+reveal with Zeus. Drawing the Arena Expansion hurts quite much, although the new stones help casting it from hand, 
+especially with the help from [Artemis The Fifth Olympian], which recovers two stones that can pay for four of the five will for Mount Olympus.
+
+Since we want to order as often as we can cards like [Perceval, The Flying Knight], [Perceval, the Charmed Knight] and [Fallen Angel of Fiery Vengeance]
+are quite important, since with their banish ability they allow us to be flexible when it comes to returning our order back to ruler area to order another resonator.
 
 ## Play Style	
+For singleton it is not really possible to give general advices how to play at certain stages of the game, 
+since it really depends on the different cards in our hand and what our opponent is playing. I still try to give some general tips on early turns
+and which cards to keep in your opening hand opening hand.
 
 ## Ending Words
 
