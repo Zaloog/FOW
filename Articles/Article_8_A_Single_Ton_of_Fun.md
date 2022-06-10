@@ -19,11 +19,11 @@ I hesitate to play his full package of support cards.
 //play <br />
 1 Zeus, the First Olympian <br />
 
-//deck <br />
+//deck <br /> 
 1 Academy Guard of Lykeion <br />
 1 Apollon, the Third Olympian <br />
 1 Arena Expansion: Mount Olympus <br />
-1 Ares, the Eighth Olympian <br />
+1 Ares, the Eighth Olympian  <br />
 1 Artemis, the Fifth Olympian <br />
 1 Arthur, Space-Time Knight <br />
 1 Athena, the Seventh Olympian <br />
@@ -33,15 +33,14 @@ I hesitate to play his full package of support cards.
 1 Geryon <br />
 1 Gleipnir, the Red Binding of Fate <br />
 1 Hades, the Fourth Olympian <br />
+1 Hanzo, Ninja of the Moon <br />
 1 Hera, the Ninth Olympian <br />
 1 Hestia, The Sixth Olympian <br />
 1 Horn of Sacred Beasts <br />
 1 Keep the Faith! <br />
-1 Laurite, Seven Luminaries Astrologian <br />
 1 Memory of Disappearance <br />
 1 Mikage Reiya <br />
 1 Oborozuki, Vampire Astrologer <br />
-1 Perceval, The Flying Knight <br />
 1 Perceval, the Charmed Knight <br />
 1 Persephone, the Eleventh Olympian <br />
 1 Phantasmal Ascendant <br />
@@ -62,7 +61,7 @@ I hesitate to play his full package of support cards.
 //deck <br />
 2 Attoractia's Memoria <br />
 4 Magic Stone of Moon Shade <br />
-4 The One Magic Stone <br />
+4 The One  <br />
 
 //sideboard <br />
 1 Pumpkin Witch <br />
@@ -92,6 +91,7 @@ As a short reminder, here is a short list for all public zones, where Twelve Oly
 - cards in the "removed from game" zone
 - cards revealed from sideboard (for example with [Origin of the 7 Lands])  
 - cards in the ruler area
+- cards in the chase area
 
 To set up [Union Seven] it takes quite a bit. But with the right cards, its possible on turn 2 or 3 already. 
 
@@ -162,8 +162,16 @@ reveal with Zeus. Drawing the Arena Expansion hurts quite much, although the new
 especially with the help from [Artemis The Fifth Olympian], which recovers two stones that can pay for four of the five will for Mount Olympus.
 Another useful discard might be [Fallen Angel Of Fiery Vengeance] as a removeal or any of the elemental Zeus chants to immidiately remove it from grave to cast the next one for free.
 
-Since we want to order as often as we can cards like [Perceval, The Flying Knight], [Perceval, the Charmed Knight] and [Fallen Angel of Fiery Vengeance]
-are quite important, since with their banish ability they allow us to be flexible when it comes to returning our order back to ruler area to order another resonator.
+Since we want to order as often as we can cards like [Perceval, the Charmed Knight] and [Fallen Angel of Fiery Vengeance]
+are quite important, because with their banish ability they allow us to be flexible when it comes to returning our order back to ruler area to order another resonator.
+
+Another interaction, that is quite strong is with [Hanzo, Ninja Of The Moon]. When we order him with two stones, one of those is optimally [The One Magic Stone]
+we can than stack Zeus and Hanzos enter ability that way, that Hanzos ability resolves last. That way, we can search Artemis with Zeus and recover our stones.
+If we had [The One Magic Stone] we can float will to directly play Artemis from hand to trigger his enter ability again for a total of X=4 to pay into Hanzos
+Enter ability. This leaves us with 4 Moons + 2 recovered Stones, so 6 will in total and also Hanzos ability to make our opponent pay more for his chants. 
+Without [The One Magic Stone] we will only be able to pay for X=3 after Artemis reveal trigger resolves.
+Remember that if our opponent has [Dreiwing, Mechanized Wind Of Destruction] revealed outside the game (from the sideboard),
+we will not be able to tap our moons for will, Hanzo can still banish them though to make the opponent pay more for his chants.
 
 ## Play Style	
 For singleton it is not really possible to give general advices how to play at certain stages of the game, 
