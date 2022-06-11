@@ -61,7 +61,7 @@ I hesitate to play his full package of support cards.
 //deck <br />
 2 Attoractia's Memoria <br />
 4 Magic Stone of Moon Shade <br />
-4 The One  <br />
+4 The One Magic Stone <br />
 
 //sideboard <br />
 1 Pumpkin Witch <br />
@@ -106,7 +106,7 @@ In the following Table I will shortly display the Twelve Olympian God cards and 
 | Number | Name of God |Enter/Reveal Ability|Union Ability|
 |:------:|:-------:|:------------------:|:-----------:|
 |    1   | Zeus  | Search + Reveal a Twelve Olympian God from Deck |NONE|
-|    2   | Poseidon  | You may bounce target non-J-Ruler/non-magicstone entity back to hand | Enter: Draw 3 cards put a Twelve Olympian God from your hand into the field|
+|    2   | Poseidon  | You may bounce target non-J-Ruler/non-magicstone entity you control back to hand | Enter: Draw 3 cards put a Twelve Olympian God from your hand into the field|
 |    3   | Apollon  | Remove target non-magicstone/non-J/resonator entity from the game from the game  |Flying,Eternal,Barrier <br /> your J/resonators gain +1000/+1000 |
 |    4   | Hades  | Target J/resonator looses all abilities until end of turn, then destroy it |Enter: Destroy all magic stones <br /> The opponents ruler looses all abilities|
 |    5   | Artemis  | Recover up to two target stones <br /> Up to two target J/resonators gain flying until end of turn |You pay 1 void less to play this card <br /> Enter: Destroy all J/resonators with flying your opponent controls |
@@ -130,8 +130,8 @@ The first part is just a regular chant effect like deal 500 damage to target pla
 into the field. Hmm... nothing special you might think. However, those chants can be ordered just like normal resonators. 
 That means, if our ruler is recovered we can choose to order them, therefore the first part resolves, without the possibility to chase to it.
 Then the token enters the field as a J-Ruler and the enter ability of our first Olymp Zeus is triggered. In addition to that already very strong ability,
-the order card also returns back to the ruler area at the end of turn, so the Token becoes a resonator again,
-allowing us to order in the next turn, without the need to think about how we get rid of our J-Ruler.
+the order card also returns back to the ruler area at the end of turn, so the Token becomes a resonator again,
+allowing us to order in the next turn, without the need to think about how we get rid of our previous ordered J-Ruler.
 
 As you might have seen in the deck list, only three of those Essence-Chants made it into the deck. The other chants did not, because either they are
 too expensive, or their effects are not useful enough in my opinion.
@@ -186,6 +186,10 @@ to pay 1 more for Fiethsings enter ability. In our first turn we then can use Fi
 
 Since Zeus Engine is pretty reliant on searching the deck, [Witch Of The Fallen Kingdom] shuts our deck pretty much down. Therefore we have to make sure we have enough removal options, 
 or already use the mulligan to dig for a potential one. 
+
+Also going for the Arena Expansion as our forst search with Zeus is not always recommended, since cards that lets us banish entities like [Tsuiya],
+or more specific for additions [Attendant of Asmodeus] might be an immidiate answer to the addition and slows down our game pace quite a bit.
+Therefore its often better to search for cards like [Hera, the Ninth Olympian] to discard potential answers from our opponent already.
 
 ## Ending Words
 Zeus really is an awesome deck which is pretty versatile and also a lot of fun. Also with the new banlist announced now, the only thing he lost compared to other decks is a Laurite. 
